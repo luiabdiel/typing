@@ -1,5 +1,5 @@
 var typed = new Typed(".typing", {
-  strings: ["agora deu certo", "o ngn é usar lib js"],
+  strings: ["Happy Birthday"],
   typeSpeed: 150,
   backSpeed: 150,
   loop: true
